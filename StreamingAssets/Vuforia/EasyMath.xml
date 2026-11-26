@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Nine" size="500.000000 690.476196" />
+    <ImageTarget name="Eight" size="500.000000 685.714294" />
+    <ImageTarget name="Seven" size="500.000000 686.979187" />
+    <ImageTarget name="Six" size="500.000000 683.928589" />
+    <ImageTarget name="Five" size="500.000000 697.656250" />
+    <ImageTarget name="Four" size="500.000000 655.357117" />
+    <ImageTarget name="Three" size="500.000000 511.309509" />
+    <ImageTarget name="Two" size="500.000000 658.556396" />
+    <ImageTarget name="One" size="500.000000 771.666687" />
+  </Tracking>
+</QCARConfig>
